@@ -1,7 +1,7 @@
 
 Design Pattern
 
-1 - Factory method
+1 - Factory method info
 
 public interface Product {}
 
